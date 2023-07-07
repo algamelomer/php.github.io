@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "username": "omar",
+            "password": "omar5040",
+            "email": "omeralgamel@gmail.com",
+            "role": "admin"
+        },
+        {
+            "username": "ossama",
+            "password": "ossama2024",
+            "email": "ossama@gmail.com",
+            "role": "admin"
+        },
+        {
+            "username": "test",
+            "password": "test5040",
+            "email": "test@gmail.com",
+            "role": "user"
+        }
+    ]
+    
+}
